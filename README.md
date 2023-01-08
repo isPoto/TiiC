@@ -32,6 +32,10 @@ Don't forget that you can move the little orange TiiC to accompany you anywhere 
 
 <a href="https://ko-fi.com/ispoto" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
 
+<a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211224627-179a40d0-fa3d-43e1-bc8a-a8f7dd33bf36.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
+
+<a href="https://t.me/PotoGroup" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211224589-dd561573-3784-4b2e-b157-adfb2505413e.png" alt="Join Poto Group" title="Join Poto Group"></a>
+
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('ispoto', {
@@ -41,3 +45,8 @@ Don't forget that you can move the little orange TiiC to accompany you anywhere 
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
+
+
+
+
+
