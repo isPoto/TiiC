@@ -32,9 +32,9 @@ Don't forget that you can move the little orange TiiC to accompany you anywhere 
 
 <a href="https://ko-fi.com/ispoto" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
 
-<a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211225151-98d67c7c-a2c8-4925-b443-cfcc663f56cc.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
+<a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211225154-07ba4e6c-a370-4873-8181-76f5f1b7a0e3.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
 
-<a href="https://t.me/PotoGroup" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211225154-07ba4e6c-a370-4873-8181-76f5f1b7a0e3.png" alt="Join Poto Group" title="Join Poto Group"></a>
+<a href="https://t.me/PotoGroup" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211225151-98d67c7c-a2c8-4925-b443-cfcc663f56cc.png" alt="Join Poto Group" title="Join Poto Group"></a>
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
