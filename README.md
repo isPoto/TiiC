@@ -14,6 +14,7 @@ Usage
 Unzip TiiCByPotoVersion**.zip into a new blank folder
 
 Run TiiC.exe and you will see the orange monster at the top of the screen. He looks like he is hungry and wants you to feed him the TC executable file
+![image](https://user-images.githubusercontent.com/59009389/211223901-22bbfa01-d203-4d21-9feb-401eb46c2c18.png)
 
 Drag and drop your TC's .exe file onto the orange monster, and he will stop talking and wait for your call
 
