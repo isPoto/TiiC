@@ -9,7 +9,7 @@ But you don't want to struggle to find the file you need from complex folders an
 
 TiiC lets you simply drag and drop any file onto the orange monster to locate your files in TC
 
-Usage
+**Usage**
 
 Unzip TiiCByPotoVersion**.zip into a new blank folder
 
