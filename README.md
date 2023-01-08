@@ -20,3 +20,13 @@ Drag and drop your TC's .exe file onto the orange monster, and he will stop talk
 Drag any file from any source (Explorer, desktop file, etc.) to this orange monster, he will immediately help you locate the file in the TC
 
 <a href="https://ko-fi.com/ispoto" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ispoto', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Sponsor Poto',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
