@@ -19,6 +19,8 @@ Run TiiC.exe and you will see the orange monster at the top of the screen. He lo
 Drag and drop your TC's .exe file onto the orange monster, and he will stop talking and wait for your call
 
 Drag any file from any source (Explorer, desktop file, etc.) to this orange monster, he will immediately help you locate the file in the TC
+![TiiCDemo](https://user-images.githubusercontent.com/59009389/211224354-8019d4e2-f82f-4c1f-a6ad-0c9b25c29710.gif)
+
 
 You can double click on the monster to exit TiiC.exe
 
