@@ -30,6 +30,8 @@ If you permanently hide the close button, you can still exit TiiC by double-clic
 
 Don't forget that you can move the little orange TiiC to accompany you anywhere on the screen, just as you would move a file
 
+<a href="https://ko-fi.com/s/4e8db70fb8" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/210224231-4ae8813c-844c-4ce5-ad7e-fd079a893a4a.png" alt="Buy it" title="Buy it"></a>
+
 <a href="https://ko-fi.com/ispoto" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
 
 <a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/211225154-07ba4e6c-a370-4873-8181-76f5f1b7a0e3.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
